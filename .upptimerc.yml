@@ -19,7 +19,7 @@ status-website:
   cname: status-dev.deeper.network
   # baseUrl: /deeper-upptime
   logoUrl: https://www.deeper.network/logo.png
-  name: Deeper Service Status
+  name: Deeper Service DEV Status
   introTitle: ""
   introMessage: ""
   navbar:
