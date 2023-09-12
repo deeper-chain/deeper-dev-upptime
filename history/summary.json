@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blockscout-dev.deeper.network.ico",
     "slug": "evm-dev",
     "status": "down",
-    "uptime": "97.08%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "97.08%",
-    "uptimeYear": "97.08%",
+    "uptime": "80.46%",
+    "uptimeDay": "80.46%",
+    "uptimeWeek": "80.46%",
+    "uptimeMonth": "80.46%",
+    "uptimeYear": "80.46%",
     "time": 120,
     "timeDay": 120,
     "timeWeek": 120,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-09-12": 11
+      "2023-09-12": 88
     }
   },
   {
@@ -71,6 +71,24 @@
     "timeWeek": 786,
     "timeMonth": 786,
     "timeYear": 786,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Sidecar dev",
+    "url": "https://sidecar-dev.deeper.network/pallets/Staking/storage/RemainderMiningReward",
+    "icon": "https://icons.duckduckgo.com/ip3/sidecar-dev.deeper.network.ico",
+    "slug": "sidecar-dev",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2021,
+    "timeDay": 2021,
+    "timeWeek": 2021,
+    "timeMonth": 2021,
+    "timeYear": 2021,
     "dailyMinutesDown": {}
   }
 ]
