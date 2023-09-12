@@ -40,19 +40,19 @@
     "url": "https://blockscout-dev.deeper.network/",
     "icon": "https://icons.duckduckgo.com/ip3/blockscout-dev.deeper.network.ico",
     "slug": "evm-dev",
-    "status": "down",
-    "uptime": "80.46%",
-    "uptimeDay": "80.46%",
-    "uptimeWeek": "80.46%",
-    "uptimeMonth": "80.46%",
-    "uptimeYear": "80.46%",
-    "time": 120,
-    "timeDay": 120,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "status": "up",
+    "uptime": "40.92%",
+    "uptimeDay": "40.92%",
+    "uptimeWeek": "40.92%",
+    "uptimeMonth": "40.92%",
+    "uptimeYear": "40.92%",
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {
-      "2023-09-12": 88
+      "2023-09-12": 523
     }
   },
   {
