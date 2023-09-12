@@ -11,6 +11,8 @@ sites:
     url: https://blockscout-dev.deeper.network/
   - name: Deeper Chain Explorer Dev
     url: https://apps-dev.deeper.network
+  - name: Sidecar dev
+    url: https://sidecar-dev.deeper.network/pallets/Staking/storage/RemainderMiningReward
 
 
 status-website:
