@@ -3,27 +3,20 @@ owner: deeper-chain # Your GitHub organization or username, where this repositor
 repo: deeper-upptime # The name of this repository
 
 sites:
-  - name: Deeper Network
-    url: https://www.deeper.network
-  - name: Deeper Mainnet
-    url: https://mainnet.deeper.network/health
-  - name: DeeperScan
-    url: https://www.deeperscan.io/deeper
-  - name: EVM
-    url: https://evm.deeper.network/
-  - name: Deeper Chain Explorer
-    url: https://apps.deeper.network
-  - name: Device BSC
-    url: https://device-bsc.deeper.network/login
-  - name: Deeper Miner
-    url: https://miner.deeper.network/login
-  - name: Deeper Miner API
-    url: https://api-miner.deeper.network
+  - name: Deeper Testnet
+    url: https://mainnet-dev.deeper.network/health
+  - name: DeeperScan Dev
+    url: https://dev.deeperscan.io/deeper
+  - name: EVM dev
+    url: https://blockscout-dev.deeper.network/
+  - name: Deeper Chain Explorer Dev
+    url: https://apps-dev.deeper.network
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.deeper.network
+  cname: status-dev.deeper.network
   # baseUrl: /deeper-upptime
   logoUrl: https://www.deeper.network/logo.png
   name: Deeper Service Status
