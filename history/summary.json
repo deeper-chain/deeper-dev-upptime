@@ -22,19 +22,19 @@
     "url": "https://dev.deeperscan.io/deeper",
     "icon": "https://icons.duckduckgo.com/ip3/dev.deeperscan.io.ico",
     "slug": "deeper-scan-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 197,
-    "timeWeek": 161,
-    "timeMonth": 167,
-    "timeYear": 173,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 174,
+    "timeDay": 190,
+    "timeWeek": 163,
+    "timeMonth": 168,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2023-11-01": 0
+      "2023-11-01": 11
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 228,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2023-11-01": 237,
+      "2023-11-01": 248,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
