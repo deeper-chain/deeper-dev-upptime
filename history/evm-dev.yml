@@ -1,7 +1,7 @@
 url: https://blockscout-dev.deeper.network/
-status: down
-code: 502
-responseTime: 3148
-lastUpdated: 2023-11-07T23:04:05.071Z
+status: up
+code: 200
+responseTime: 513
+lastUpdated: 2023-11-08T06:29:00.254Z
 startTime: Tue Sep 12 2023 00:35:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
