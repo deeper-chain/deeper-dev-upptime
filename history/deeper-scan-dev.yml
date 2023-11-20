@@ -1,7 +1,7 @@
 url: https://dev.deeperscan.io/deeper
-status: up
-code: 200
-responseTime: 258
-lastUpdated: 2023-11-19T23:03:53.629Z
+status: down
+code: 521
+responseTime: 212
+lastUpdated: 2023-11-20T19:29:34.602Z
 startTime: Tue Sep 12 2023 00:35:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
