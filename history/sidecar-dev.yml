@@ -1,7 +1,7 @@
 url: https://sidecar-dev.deeper.network/pallets/Staking/storage/RemainderMiningReward
-status: up
-code: 200
-responseTime: 2138
-lastUpdated: 2024-01-16T23:04:06.758Z
+status: down
+code: 500
+responseTime: 599
+lastUpdated: 2024-01-17T23:01:28.896Z
 startTime: Tue Sep 12 2023 08:05:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
